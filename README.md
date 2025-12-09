@@ -90,6 +90,7 @@ It covers everything from deploying tokens to adding liquidity, simulating volum
 
 
 # 👨‍💻 Author
+DM me on telegram for full working version of this project
 ### 📞 Telegram: [d0sc4u](https://t.me/d0sc4u)   
 https://t.me/d0sc4u
 
