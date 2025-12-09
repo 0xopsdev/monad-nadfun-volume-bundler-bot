@@ -90,6 +90,6 @@ It covers everything from deploying tokens to adding liquidity, simulating volum
 
 
 # 👨‍💻 Author
-### 📞 Telegram: [0xOpsDev](https://t.me/its0xopsdev)   
-https://t.me/its0xopsdev
+### 📞 Telegram: [d0sc4u](https://t.me/d0sc4u)   
+https://t.me/d0sc4u
 
